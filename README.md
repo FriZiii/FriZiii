@@ -17,6 +17,6 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=friziii&" alt="friziii" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=friziii&theme=shades-of-purple" alt="friziii"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=friziii&show_icons=true&locale=en&layout=compact&hide=HLSL,ShaderLab" alt="friziii" /></p>
