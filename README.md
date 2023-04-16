@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FriZiii</h1>
 <h3 align="center">Second-year student at the Silesian University of Technology and a great enthusiast of programming</h3>
 
-- 🌱 I’m currently learning **GameDev with Unity, and some other stuff for my college**
+- 🌱 I’m currently learning **C# with .NET CORE, and some other stuff for my college**
 
 - 📫 How to reach me **sawoszmateusz@gmail.com**
 
